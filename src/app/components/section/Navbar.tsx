@@ -3,7 +3,7 @@ import Link from "next/link";
 import React from "react";
 
 const NAV_LINKS = [
-    { label: "Features", href: "/features" },
+    { label: "Services", href: "/services" },
     { label: "Reviews", href: "/reviews" },
     { label: "Pricing", href: "/pricing" },
     { label: "Results", href: "/results" },
